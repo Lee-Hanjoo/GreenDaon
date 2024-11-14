@@ -1,6 +1,6 @@
 # daon
 
-[![daon](https://github.com/user-attachments/assets/a3256e34-4344-4a52-b753-7ee4b3517bdb)]([https://qodql.github.io/daon/](https://lee-hanjoo.github.io/GreenDaon/index.html))
+[![daon](https://github.com/user-attachments/assets/a3256e34-4344-4a52-b753-7ee4b3517bdb)](https://lee-hanjoo.github.io/GreenDaon/index.html)
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 ## 🏕 다온펜션 리뉴얼 프로젝트
@@ -11,7 +11,7 @@
 
 ## 🔗 URL
 - 기존 <http://www.daonpension.kr/>
-- 리뉴얼 <https://qodql.github.io/daon/>
+- 리뉴얼 <https://lee-hanjoo.github.io/GreenDaon/index.html>
 <!-- - 리뉴얼 <https://0011git.github.io/daon/> -->
 
 
