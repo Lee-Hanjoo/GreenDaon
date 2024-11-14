@@ -1,9 +1,8 @@
 # 🏕 다온펜션 리뉴얼 프로젝트
 기존의 '다온펜션' 사이트를 리디자인 및 재구성한 리뉴얼 프로젝트입니다.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
 [![daon](https://github.com/user-attachments/assets/a3256e34-4344-4a52-b753-7ee4b3517bdb)](https://lee-hanjoo.github.io/GreenDaon/index.html)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
 
 ![daon_main](https://github.com/user-attachments/assets/5a9f5349-b190-457e-961a-282c00bf717b)
 
